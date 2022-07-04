@@ -2,7 +2,7 @@
 
  # Hello there, Greetings to my CodeLab 🙌
   
-🌱 I’m currently learning  JAVA,ASP.NET, React, Node.JS <br>
+🌱 I’m currently learning  JAVA, ASP.NET, React, Node.JS <br>
 🔭 I’m currently working on <a href="https://github.com/Rajath-gatty/srinivas-exam-manager" target="_blank">Srinivas Exam Manager<a/>. <br>
 ⚡ Fun fact: The QWERTY keyboard was explicitly designed to slow typing speed.
 
