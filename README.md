@@ -86,7 +86,7 @@
         title="GitHub"
         width="40px"
         style="margin: 20px 0;"
-        src="[https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png](https://skillicons.dev/icons?i=github)"
+        src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
       />
       <img
         alt="Terminal"
