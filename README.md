@@ -40,12 +40,15 @@
 <br/>
 
 ### Tools & Databases
-<div>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>&emsp;
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>&emsp;
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>&emsp;
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>&emsp;
-  <img src="https://skillicons.dev/icons?i=terminal" alt="Terminal" width="40" height="40"/>
+<div align="center">
+<h3>Tools & Databases</h3>
+    <div>
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>&emsp;
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VScode" width="40" height="40"/>&emsp;
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>&emsp;
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>&emsp;
+        <img src="https://skillicons.dev/icons?i=terminal" alt="Terminal" width="40" height="40"/>
+    </div>
 </div>
 
 </div>
