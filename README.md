@@ -7,11 +7,11 @@
 
  
 ## 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveej&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://git-stats-plum.vercel.app/api/top-langs/?username=naveej&layout=compact&theme=transparent&disable_animations=true)
 
 
 ## Stats
-![statscard](https://github-readme-stats.vercel.app/api?username=naveej&show_icons=true&theme=tokyonight&include_all_commits=true)
+![statscard](https://git-stats-plum.vercel.app/api?username=naveej&show_icons=true&theme=transparent&include_all_commits=true&disable_animations=true)
 
 ## Languages and Tools
 <div style="display: flex; justify-content: center; align-items: center; padding: 1em;">
