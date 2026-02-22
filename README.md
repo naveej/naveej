@@ -1,124 +1,51 @@
-<div style="display: flex; flex-direction: column; text-align: center;">
-
- # Hello there, Greetings to my CodeLab 🙌
+<div align="center">
   
-🌱 I’m currently learning  JS, C, React, Node.JS <br>
-⚡ Fun fact: The QWERTY keyboard was explicitly designed to slow typing speed.
+# Hello there, Greetings to my CodeLab 🙌
 
- 
-## 
-[![Top Langs](https://git-stats-plum.vercel.app/api/top-langs/?username=naveej&layout=compact&theme=transparent&disable_animations=true)
+🌱 I’m currently learning **JS, C, React, and Node.JS**
 
+⚡ **Fun fact:** The QWERTY keyboard was explicitly designed to slow typing speed.
 
-## Stats
-![statscard](https://git-stats-plum.vercel.app/api?username=naveej&show_icons=true&theme=transparent&include_all_commits=true&disable_animations=true)
+<hr />
 
-## Languages and Tools
-<div style="display: flex; justify-content: center; align-items: center; padding: 1em;">
-      <img
-        alt="HTML5"
-        title="HTML"
-        width="40px"
-        style="margin: 20px 0;"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-      />
-      <img
-        alt="CSS3"
-        title="CSS"      
-        width="40px"
-        style="margin: 20px 0;"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-      />
-      <img
-        alt="JS"
-        title="JavaScript"
-        width="40px"
-        style="margin: 20px 0;"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-      />
-      <img
-        alt="REACT"
-        title="React"
-        width="40px"
-        style="margin: 20px 0;"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-      />
-      <img
-        alt="JSON"
-        title="JSON"
-        width="40px"
-        style="margin: 20px 0;"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"
-      />
-      <img
-        alt="CPP"
-        title="CPP"
-        width="40px"
-        style="margin: 20px 0;"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"
-      />
-      <img
-        alt="PHP"
-        title="PHP"
-        width="40px"
-        style="margin: 20px 0;"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"
-      />
-      <img
-        alt="JAVA"
-        title="Java"
-        width="40px"
-        style="margin: 20px 0;"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
-      />
+### 📈 Statistics
+<div align="center">
+  <img src="https://git-stats-plum.vercel.app/api/top-langs/?username=naveej&layout=compact&theme=transparent&disable_animations=true" alt="Top Langs" />
+  <br/>
+  <img src="https://git-stats-plum.vercel.app/api?username=naveej&show_icons=true&theme=transparent&include_all_commits=true&disable_animations=true" alt="Statscard" />
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; padding: 1em;">
-      <img
-        alt="Visual Studio Code"
-        title="VS Code"
-        width="40px"
-        style="margin: 20px 0;"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-      />
-      <img
-        alt="GitHub"
-        title="GitHub"
-        width="40px"
-        style="margin: 20px 0;"
-        src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
-      />
-      <img
-        alt="Terminal"
-        title="Terminal"
-        width="40px"
-        style="margin: 20px 0;"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
-      />
+<hr />
+
+## 💻 Tech Stack
+
+### Web & Programming Languages
+<div>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>&emsp;
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>&emsp;
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>&emsp;
+  <img src="https://skillicons.dev/icons?i=cpp" alt="CPP" width="40" height="40"/>&emsp;
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; padding: 1em;">
-      <img
-        alt="MySQL"
-        title="MySQL"
-        width="40px"
-        style="margin: 20px 0;"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
-      />
-      <img
-        alt="Git"
-        title="Git"
-        width="40px"
-        style="margin: 20px 0;"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
-      />
-      <img
-        alt="Nodejs"
-        title="Nodejs"
-        width="40px"
-        style="margin: 20px 0;"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-      />
+<br/>
+
+### Frameworks & Runtime
+<div>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>&emsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" width="40" height="40"/>&emsp;
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/>
 </div>
-  
-<div/>
+
+<br/>
+
+### Tools & Databases
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>&emsp;
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>&emsp;
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>&emsp;
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>&emsp;
+  <img src="https://skillicons.dev/icons?i=terminal" alt="Terminal" width="40" height="40"/>
+</div>
+
+</div>
